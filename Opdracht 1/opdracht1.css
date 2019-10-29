@@ -1,0 +1,15 @@
+div {
+	 border-style:dashed;
+     background-color: yellow;
+     border-color: red;
+     border-size: 40px;
+     border-radius: 40px;
+	 width:400px;
+     height:1050px;
+  	 padding:50px;
+     margin-left: 500px;
+     margin-top: 30px;}
+
+     
+body{background-color: lightblue;}
+img {width: 400px;}
